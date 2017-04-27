@@ -14,3 +14,4 @@ O jogador controla um personagem que terá que desvendar os mistérios do labiri
 - Funções: Usada para usar instruções como a de ressurgimento do personagem.
 - Estruturas: Utilizadas para a criação do personagem.
 - Ponteiros: Para determinar localização dos objetos na matriz do mapa.
+- Recursividade: Lendo os movimentos, dentro de uma condição para determinar se é possível fazê-los, e os executando.
