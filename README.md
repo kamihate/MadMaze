@@ -1,8 +1,8 @@
 # Projeto de P1
 
 Alunos:
-> Leandro Miguel dos Santos
-> Nicolas Kervin Menezes de Almeida
+ Leandro Miguel dos Santos
+ Nicolas Kervin Menezes de Almeida
  
  # MadMaze
 O jogador controla um personagem que terá que desvendar os mistérios do labirinto, evitando o perigo, na tentativa de encontrar uma forma de escapar, podendo facilmente se perder ou morrer caso escolha o caminho errado.
